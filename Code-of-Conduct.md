@@ -1,4 +1,4 @@
-Amazon Open Source Code of Conduct
+## Amazon Open Source Code of Conduct
 This code of conduct provides guidance on participation in Amazon-managed open-source communities, outlines the process for reporting unacceptable behavior, and documents consequences for unacceptable behavior. As an organization and community, we are committed to providing an inclusive environment for everyone.
 
 Our Pledge:
