@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/4cb92a82-8517-44ba-84ef-b4f13c97ad08)# Deploying-Three-Tier-Web-Applications
-
-
 ![3TierArch](https://github.com/user-attachments/assets/b7e351ac-eb8b-49fa-9116-fbc45ca63084)
 
 
