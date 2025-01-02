@@ -152,8 +152,3 @@ Include an architecture diagram showcasing the 3-tier setup with components such
 - **Database**: MySQL.
 - **Instance OS**: Amazon Linux 2.
 - **Tools**: AWS CLI, Management Console.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
