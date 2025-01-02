@@ -1,12 +1,3 @@
-
-
-
-![image](https://github.com/user-attachments/assets/1c080b82-54d4-4f08-81cd-1d2d506af225)
-
-![image](https://github.com/user-attachments/assets/0708310e-8c6b-47fc-ac88-888e6ff0cdae)
-
-
-
 # **AWS 3-Tier Architecture Deployment**
 
 ![3TierArch](https://github.com/user-attachments/assets/b7e351ac-eb8b-49fa-9116-fbc45ca63084)
@@ -22,8 +13,6 @@ When building a cloud-based application, the architecture is just as critical as
 This project demonstrates deploying a web application using a 3-tier architecture on AWS for **Brainiac**, a tech startup. Each tier—Web, Application, and Database—serves specific functions and operates independently to enhance scalability, security, and availability.
 
 ---
-
-![image](https://github.com/user-attachments/assets/4e8c2553-0f5d-4eab-a949-3d7a1120ce7b)
 
 ## **Why 3-Tier Architecture?**
 1. **Web/Presentation Tier**:
