@@ -19,24 +19,17 @@ This project demonstrates deploying a web application using a 3-tier architectur
    - Handles user interaction.
    - Hosts the frontend interface using web servers.
 
-![image](https://github.com/user-attachments/assets/ea87cb79-e330-46f6-845c-384cf7e9075e)
-
-
 2. **Application Tier**:
    - Processes data and executes core business logic.
    - Connects the web and database tiers.
-  
-![image](https://github.com/user-attachments/assets/c9af2276-1b2e-40eb-8752-a31c108456a6)
-
 
 3. **Data Tier**:
    - Manages and stores application data.
    - Often uses relational databases such as MySQL.
 
-![image](https://github.com/user-attachments/assets/89b9586a-9268-4700-8911-abd9998a6b59)
-
-
 This separation ensures fault isolation, efficient resource management, and secure access between tiers.
+
+![image](https://github.com/user-attachments/assets/89b9586a-9268-4700-8911-abd9998a6b59)
 
 ---
 
