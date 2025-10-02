@@ -137,7 +137,6 @@ Include an architecture diagram showcasing the 3-tier setup with components such
 - **Scalability**: ASGs dynamically adjust resources based on demand.
 - **Security**: Segregated tiers with specific security group rules.
 - **Fault Tolerance**: NAT Gateway and Multi-AZ RDS for redundancy.
-
 ---
 
 ## **Technologies Used**
