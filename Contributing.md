@@ -13,7 +13,7 @@ When filing an issue, please check existing open, or recently closed, issues to 
 4. Anything unusual about your environment or deployment
 
 ## Contributing via Pull Requests
-Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
+Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that :-
 
 1. You are working against the latest source on the main branch.
 2. You check existing open and recently merged, pull requests to make sure someone else hasn't addressed the problem already.
