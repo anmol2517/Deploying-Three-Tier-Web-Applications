@@ -15,7 +15,7 @@ This project demonstrates deploying a web application using a 3-tier architectur
 ---
 
 ## **Why 3-Tier Architecture?**
-1. **Web/Presentation Tier**:
+1. **Web/Presentation Tier** :
    - Handles user interaction.
    - Hosts the frontend interface using web servers.
 
