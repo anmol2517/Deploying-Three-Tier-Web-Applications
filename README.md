@@ -19,7 +19,7 @@ This project demonstrates deploying a web application using a 3-tier architectur
    - Handles user interaction.
    - Hosts the frontend interface using web servers.
 
-2. **Application Tier**:
+2. **Application Tier** :
    - Processes data and executes core business logic.
    - Connects the web and database tiers.
 
