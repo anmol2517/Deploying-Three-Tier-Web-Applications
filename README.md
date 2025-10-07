@@ -23,7 +23,7 @@ This project demonstrates deploying a web application using a 3-tier architectur
    - Processes data and executes core business logic.
    - Connects the web and database tiers.
 
-3. **Data Tier**:
+3. **Data Tier** :
    - Manages and stores application data.
    - Often uses relational databases such as MySQL.
 
