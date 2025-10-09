@@ -45,7 +45,7 @@ This separation ensures fault isolation, efficient resource management, and secu
 ## **Project Overview**
 This project involves creating a robust infrastructure:
 
-1. **Networking Setup**:
+1. **Networking Setup** :
    - A VPC with two public and four private subnets spread across two availability zones.
    - Route tables, Internet Gateway, and NAT Gateway configurations.
 
