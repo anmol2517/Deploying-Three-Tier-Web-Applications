@@ -49,7 +49,7 @@ This project involves creating a robust infrastructure:
    - A VPC with two public and four private subnets spread across two availability zones.
    - Route tables, Internet Gateway, and NAT Gateway configurations.
 
-2. **Tier 1: Web Tier**:
+2. **Tier 1: Web Tier** :
    - EC2 launch template for web servers.
    - Auto Scaling Group (ASG) to manage server instances.
    - Application Load Balancer (ALB) for traffic distribution.
