@@ -54,7 +54,7 @@ This project involves creating a robust infrastructure:
    - Auto Scaling Group (ASG) to manage server instances.
    - Application Load Balancer (ALB) for traffic distribution.
 
-3. **Tier 2: Application Tier**:
+3. **Tier 2: Application Tier** :
    - EC2 launch template for application servers.
    - ASG for dynamic scaling.
    - ALB to route traffic between Web and Application tiers.
