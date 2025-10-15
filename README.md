@@ -60,7 +60,7 @@ This project involves creating a robust infrastructure:
    - ALB to route traffic between Web and Application tiers.
    - Bastion host for secure access.
 
-4. **Tier 3: Database Tier**:
+4. **Tier 3: Database Tier** :
    - Relational Database Service (RDS) with MySQL.
    - Database Subnet Group for proper placement in private subnets.
    - Security Group to manage inbound/outbound access.
