@@ -79,7 +79,7 @@ This project involves creating a robust infrastructure:
   - Private Route Table linked to a NAT Gateway for outbound Internet access from private subnets.
 
 ### **2. Web Tier (Frontend)**
-- **Launch Template**:
+- **Launch Template** :
   - Create a launch template named `brainiac-webServer`.
   - AMI: Amazon Linux 2, Instance Type: t2.micro (Free Tier eligible).
   - Security Group: Allow inbound HTTP, HTTPS, and SSH traffic.
